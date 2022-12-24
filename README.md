@@ -2,7 +2,9 @@
 
 👀I'm interested in improving my skills every day
 
-🌱I'm currently learning Java and PHP
+🌱I'm currently learning Python, SQL, Big Data, Spark, data and data governance in general, 
+as well as improving my soft skills by studying about improvement processes, agile methodologies,
+improvement and project management, languages ​​and interpersonal relationships.
 
 💞️I try to collaborate in a better world through codes :)
 
