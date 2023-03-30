@@ -2,7 +2,7 @@
 
 👀I'm interested in improving my skills every day
 
-Desenvolvedor Web
+👨🏻‍💻Web Developer
 
 💞️I try to collaborate in a better world through codes :)
 
